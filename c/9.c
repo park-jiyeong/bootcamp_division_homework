@@ -8,17 +8,20 @@
 int main() {
     // 이곳에 코드를 작성해주세요!
     int n, sum = 0;
-    scanf("%d", &n);
-    if(n<0){
-        printf("X\n");
-        return 1;
+    
+    while(1){
+        scanf("%d", &n);
+        if(n<=0){
+            printf("X\n");
+        }
+        else{
+            for(int i = 1; i<=n;i++){ 
+                sum += i;
+            }
+            printf("%d\n",sum);
+            break;
+        }
     }
-
-    for(int i = 1; i<=n;i++){ 
-        sum += i;
-    }
-    printf("%d\n",sum);
-
  
    
 
