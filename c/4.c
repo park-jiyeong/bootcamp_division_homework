@@ -9,7 +9,7 @@ int main() {
     // 이곳에 코드를 작성해주세요!
     int score;
     scanf("%d", &score);
-
+ 
     if(score>=90){
         printf("A\n");
     }

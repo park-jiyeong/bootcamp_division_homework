@@ -10,7 +10,7 @@ int main() {
     int age;
     scanf("%d", &age);
 
-    if(age >= 61)
+    if(age >= 61) 
     {
         printf("DISCOUNT\nBOARD\n"); 
     }

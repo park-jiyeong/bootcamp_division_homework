@@ -12,7 +12,7 @@ int main() {
 
     if(input == 'a' || input == 'e' || input == 'i' || input == 'o' ||input == 'u')
     {
-        printf("O\n");
+        printf("O\n"); 
     }
     else{
         printf("X\n"); 

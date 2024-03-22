@@ -12,7 +12,7 @@ int main() {
     scanf("%d", &n);
     if(n>12)
     {
-        return 1;
+        return 1; 
     }
 
     for(int i = 1; i<=n;i++) 

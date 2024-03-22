@@ -8,7 +8,7 @@
 int main() {
     int num;
     int num1, num2, num3;
-
+ 
     scanf("%d", &num);
     num1 = num/100; //4
     num2 = (num%100)/10; //9
