@@ -15,7 +15,7 @@ int main() {
         printf("O\n");
     }
     else{
-        printf("X\n");
+        printf("X\n"); 
     }
     
     return 0;

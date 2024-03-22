@@ -13,7 +13,7 @@ int main() {
     {
         return 0;
     }
-
+ 
     if(time >= 12)
     {
         printf("PM\n");

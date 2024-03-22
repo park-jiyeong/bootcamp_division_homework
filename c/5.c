@@ -14,7 +14,7 @@ int main() {
     if(age<14 && height <160)
     {
         printf("O\n");
-    }
+    } 
     else{
         printf("X\n");
     }

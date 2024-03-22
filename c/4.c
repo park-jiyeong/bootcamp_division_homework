@@ -14,7 +14,7 @@ int main() {
         printf("A\n");
     }
     else if(score>=80&&score<90){
-        printf("B\n");
+        printf("B\n"); 
     }
     else if(score>=70 && score<80){
         printf("C\n");

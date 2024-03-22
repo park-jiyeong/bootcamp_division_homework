@@ -14,7 +14,7 @@ int main() {
     num2 = (num%100)/10; //9
     num3 = ((num%100)%10); //2
     
-    printf("%d", num3);
+    printf("%d", num3); 
     printf("%d", num2);
     printf("%d", num1);
     

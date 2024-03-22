@@ -12,7 +12,7 @@ int main() {
 
     if(age >= 61)
     {
-        printf("DISCOUNT\nBOARD\n");
+        printf("DISCOUNT\nBOARD\n"); 
     }
     else{
         printf("BOARD\n");
